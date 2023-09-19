@@ -1,0 +1,13 @@
+div{
+    border: 1px solid palevioletred;
+    background-color: aqua;
+}
+a {
+    border: 1px solid red;
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none; 
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
