@@ -1,0 +1,29 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-top: 0px;
+}
+.item{
+    background-color: rgb(173, 165, 165);
+    border: 1px solid #e01111;
+    border-radius: 20px;
+    padding: 20px;
+    display: grid; 
+}
+.comprar{
+    background-color: rgb(141, 103, 238);
+    padding: 10px 20px ;
+    color: rgb(236, 233, 226);
+    text-decoration: none;
+    border-radius: 10px;
+}
+.grid{
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+    gap: 20px; 
+}
